@@ -1,0 +1,21 @@
+.settings {
+    display: flex;
+    justify-content: space-around;
+    }
+.SetTimer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #5f27cd;
+    border: 5px solid white ;
+    color: white;
+    width: 300px;
+    padding: 20px;
+    border-radius: 1rem;
+    margin: 20px;
+  }
+.SetTimer-controls{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
